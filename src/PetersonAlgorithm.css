@@ -1,0 +1,30 @@
+.PetersonAlgorithm{
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 24px;
+}
+.PetersonAlgorithm button {
+    margin: 40px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(93, 17, 163);
+    border: 0px solid yellow;
+    border-radius: 5px;
+    color: rgb(0, 254, 220);
+  
+  }
+  .PetersonAlgorithm h1{
+    padding: 30px;
+    font-weight: 500;
+    color: rgb(93, 17, 163);
+  }
+  .PetersonAlgorithm button:hover{
+    color: azure;
+    padding: 9px;
+  }
+  .PetersonAlgorithm video{
+    max-width: 600px;
+  }
